@@ -1,0 +1,55 @@
+.container{
+    padding: 0 3rem;
+}
+
+.about_section
+{
+display: flex;
+justify-content: space-evenly;
+position: relative;
+bottom: 3rem;
+flex-wrap: wrap;
+}
+
+
+.about_img{
+    width: 20%;
+}
+.about_card
+{
+    text-align: start;
+    width: 23rem;
+    padding: 2rem 1rem 5rem;
+    border-radius: 5px;
+    box-shadow: 10px 5px 10px 10px #00000041;
+    background-color: #fff;
+    margin: 0 0 1rem;
+    cursor: pointer;
+}
+.about_card:hover
+{
+    background-color: #78dffe;
+    transition: 0.3s;
+
+}
+
+
+
+.about_card h1{
+    font-size: 1.4rem;
+    line-height: 30px;
+    color: #000 ;
+    font-weight: 300;
+}
+.about_card p{
+    font-size: 1rem;
+    line-height: 20px;
+    color: #000;
+}
+.card_button{
+    padding: 8px 30px;
+    width: 100%;
+    border: none;
+    border-radius: 5px
+}
+/* About second secftion start here */

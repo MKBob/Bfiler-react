@@ -1,0 +1,104 @@
+
+.secthree-main{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 4rem;
+    margin-top: 5rem;
+ 
+}
+
+
+.sec-third-img {
+    width: 10%;
+}
+.third-img {
+    width: 60%;
+}
+.sec-three-content{
+    text-align: start;
+    display: flex;
+}
+.sec-three-content h1{
+    color: black;
+    text-align: start;
+   font-size: 1.5rem;
+}
+.sec-three-content p{
+    color: black;
+    font-size: 1rem;
+    width: 400px;
+    margin-bottom: 1rem;
+line-height: 20px;
+}
+
+.secthree-heading{
+    color: black;
+    text-align: start;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+.secthree-span{
+    color: #1cabd6;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 5rem;
+}
+.hedind-para{
+    color: black;
+    text-align: start;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+.email-secton{
+    background-color: #1cabd6;
+    width: 60%;
+   
+}
+.third-sec-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-one{
+    border: none;
+    padding: 15px 35px;
+}
+.btn-two{
+    border: none;
+    padding: 15px 35px; 
+    background-color: #222;
+    color: #fff;
+}
+.email-heading{
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+.email-span{
+    font-size: 1.8rem;
+}
+.email-type{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}
+input{
+    width: 400px;
+    padding: 15px 30px;
+    border: none;
+    margin-bottom: 1rem;
+}
+.req-btn{
+    width: 93%;
+    border: none;
+    height: 2.5rem;
+    background-color: #222;
+    color: #fff;
+    font-size: 1rem;
+}
+.req-btn:hover{
+    color: #fff;
+    background-color: #1cabd6;
+    border: 2px solid #fff;
+}
